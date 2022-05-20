@@ -58,6 +58,6 @@ My strategy to solve this challenge was:
 
 # 10. Next Steps to Improve
 
-# LICENSE
+### LICENSE
 
-# All Rights Reserved - Comunidade DS 2022
+### All Rights Reserved - Comunidade DS 2022
